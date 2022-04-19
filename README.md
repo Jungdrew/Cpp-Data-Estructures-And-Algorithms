@@ -13,15 +13,23 @@
 
 Vectors in C++ are sequence containers representing arrays that can change in size. They use contiguous storage locations for their elements, which means that their elements can also be accessed using offsets on regular pointers to its elements, and just as efficiently as in arrays.
   
-  Contains : 
-    - Insert, add and delete elements.
-    - Bubble Sort implementation O( n^2 )
-    - Heap Sort implementation O( n log n )
-    - Quick Sort implementation O(n log n), Worst case O( n^2 )
-    - Binary Search O( log n ) 
+Contains : 
+- Insert, add and delete elements.
+- Bubble Sort implementation O( n^2 )
+- Heap Sort implementation O( n log n )
+- Quick Sort implementation O(n log n), Worst case O( n^2 )
+- Binary Search O( log n ) 
 
   
 **Linked List**
+  
+A linked list is a linear collection of data elements whose order is not given by their physical placement in memory. Instead, each element points to the next. It is a data structure consisting of a collection of nodes which together represent a sequence.
+  
+Contains : 
+- Add, insert and delete elements.
+- Merge Sort implementation O( n log n )
+- Binary Search impleentation O( log n )
+- Add Nodes from diferent types of data (int, nodes, another linked List)
   
 ## 🧑‍💻 Author
 
