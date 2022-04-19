@@ -6,7 +6,22 @@
 ## 👷‍♂️ Built With
   
 - C++
+  
+## 📖 Data Structures
 
+** Vector **
+Vectors in C++ are sequence containers representing arrays that can change in size. They use contiguous storage locations for their elements, which means that their elements can also be accessed using offsets on regular pointers to its elements, and just as efficiently as in arrays.
+  
+  Contains : 
+    - Insert, add and delete elements.
+    - Bubble Sort implementation O( n^2 )
+    - Heap Sort implementation O( n log n )
+    - Quick Sort implementation O(n log n), Worst case O( n^2 )
+    - Binary Search O( log n ) 
+
+  
+** Linked List **
+  
 ## 🧑‍💻 Author
 
 **Gustavo Ramirez**
