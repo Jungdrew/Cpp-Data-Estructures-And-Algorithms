@@ -9,7 +9,7 @@
   
 ## 📖 Data Structures
 
-** Vector **
+**Vector**
 Vectors in C++ are sequence containers representing arrays that can change in size. They use contiguous storage locations for their elements, which means that their elements can also be accessed using offsets on regular pointers to its elements, and just as efficiently as in arrays.
   
   Contains : 
@@ -20,7 +20,7 @@ Vectors in C++ are sequence containers representing arrays that can change in si
     - Binary Search O( log n ) 
 
   
-** Linked List **
+**Linked List**
   
 ## 🧑‍💻 Author
 
