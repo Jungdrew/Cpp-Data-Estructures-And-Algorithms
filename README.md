@@ -1,4 +1,4 @@
-<h1 align="center">Javascript Projects Repository<project-name></h1>
+<h1 align="center">C++ Data Structures and Algorithms<project-name></h1>
 
 <p align="center">This repository is for upload every c++ data structure and algorithm source code I do.<project-description></p>
 <p align="center">Using pointers, algorithm optimizations and more.. </p>
