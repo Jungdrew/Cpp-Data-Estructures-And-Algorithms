@@ -31,6 +31,15 @@ Contains :
 - Binary Search impleentation O( log n )
 - Add Nodes from diferent types of data (int, nodes, another linked List)
   
+  
+**Adjacency Matrix**
+An adjacency matrix is a square matrix used to represent a finite graph. The elements of the matrix indicate whether pairs of vertices are adjacent or not in the graph.
+
+Contains :
+- Add edges
+- Depth First Seach algorithm O( V + E )
+- ... UPDATING
+  
 ## 🧑‍💻 Author
 
 **Gustavo Ramirez**
